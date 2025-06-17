@@ -3,7 +3,7 @@ public class ShipCosts
     public static void main(String[] args)
     {
         final int free_ship = 100;
-        int item_cost = 12232;
+        int item_cost = 101;
         double ship_cost = (item_cost * .02);
         double paid_ship = (ship_cost + item_cost);
 
