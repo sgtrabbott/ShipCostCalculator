@@ -8,7 +8,6 @@ public class ShipCosts {
         double item_cost = 0;
         double ship_cost = 0;
         double total_cost = 0;
-        String invalid_price = "";
 
         //Scanner
         System.out.print("Price of your item: ");
